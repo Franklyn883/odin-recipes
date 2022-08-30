@@ -1,1 +1,2 @@
 # odin-recipes
+Building a recipe website with what i've learn so far. It has really being an interesting journey learning on my own. I have to put the skills i've learnt so far to a test. I've learnt how to use basic command on the unix shell, how to create a repository and link it to my local machine, how to stage, and then commit my code, and how to write a good commit. it has being an interesting journey and i plan to grow from here.
